@@ -1,0 +1,20 @@
+{
+    "applinks": {
+        "apps":[],
+        "details":{
+            "L84NC2SGFW.cn.softbank.mbank.xjyh2":{
+                "paths": ["*"]
+            },
+        }
+    },
+    "webcredentials":{
+        "apps": [
+            "L84NC2SGFW.cn.softbank.mbank.xjyh2"
+          ]
+    },
+    "activitycontinuation": {
+        "apps":[
+            "L84NC2SGFW.cn.softbank.mbank.xjyh2"
+        ]
+    }
+}
