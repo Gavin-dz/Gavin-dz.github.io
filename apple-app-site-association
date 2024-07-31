@@ -3,7 +3,7 @@
         "apps":[],
         "details":{
             "L84NC2SGFW.cn.softbank.mbank.xjyh2":{
-                "paths": ["*"]
+                "paths": ["*","/sjyh/*"]
             },
         }
     },
